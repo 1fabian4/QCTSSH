@@ -1,0 +1,8 @@
+1. Make window
+2. Configure The Window so it opens in fullscreen.
+3. Make UI elements Like buttons and drop down menus
+4. Make these so they scale in respect of the windows size
+5. Make error window when problem or scrash arises.
+6. Make it functional
+7. Make it save local networks and automaticaly serach for them to form a dropdown
+8. Make it save so it can connect quickly
